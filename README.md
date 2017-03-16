@@ -1,7 +1,7 @@
-﻿#Topcoder Online Review GitHub Import Script.
+# Topcoder Online Review GitHub Import Script.
 
 ## Configuration
-###Edit configuration in `.env` file to set the configuration values.
+### Edit configuration in `.env` file to set the configuration values.
 - SVN_USER -> The SVN user to access the SVN repository
 - SVN_PASS -> The SVN password to access the SVN repository
 - REPO_PREFIX -> The prefix that GitHub repositories will have after importing from SVN
