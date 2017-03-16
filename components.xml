@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<components>
+    <component
+        name="project1"
+        svnpath="https://subversion.assembla.com/svn/misha-s-desk.2/"
+        revision="2"/>
+    <component
+        name="project2"
+        svnpath="https://subversion.assembla.com/svn/misha-s-desk.3/"
+        revision="2"/>
+
+    <component
+        name="project3"
+        svnpath="https://subversion.assembla.com/svn/misha-s-desk.4/"
+        revision="2"/>
+</components>
